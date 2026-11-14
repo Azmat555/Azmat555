@@ -20,7 +20,7 @@
   <img width="50" hspace="12" vspace="12" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/>
   <img width="50" hspace="12" vspace="12" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
   <img width="50" hspace="12" vspace="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-  <img width="50" hspace="12" vspace="12" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sqlite.svg" alt="SQLite" title="SQLite"/>
+  <img width="50" hspace="12" vspace="12" style="background-color:#fff;padding:6px;border-radius:8px;box-sizing:border-box;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sqlite.svg" alt="SQLite" title="SQLite"/>
   <img width="50" hspace="12" vspace="12" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img width="50" hspace="12" vspace="12" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
   <img width="50" hspace="12" vspace="12" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
@@ -35,11 +35,11 @@
   <img width="50" hspace="12" vspace="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap"/>
   <img width="50" hspace="12" vspace="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" alt="Ant Design" title="Ant Design"/>
   <img width="50" hspace="12" vspace="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress"/>
-  <img width="50" hspace="12" vspace="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" alt="AWS" title="AWS"/>
+  <img width="50" hspace="12" vspace="12" style="background-color:#fff;padding:6px;border-radius:8px;box-sizing:border-box;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" alt="AWS" title="AWS"/>
   <img width="50" hspace="12" vspace="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" alt="Puppeteer" title="Puppeteer"/>
   <img width="50" hspace="12" vspace="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira"/>
   <img width="50" hspace="12" vspace="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright"/>
-  <img width="50" hspace="12" vspace="12" src="https://cdn.jsdelivr.net/gh/tabler/tabler-icons/icons/outline/robot.svg" alt="AI Engineer" title="AI Engineer"/>
+  <img width="50" hspace="12" vspace="12" style="background-color:#fff;padding:6px;border-radius:8px;box-sizing:border-box;" src="https://cdn.jsdelivr.net/gh/tabler/tabler-icons/icons/outline/robot.svg" alt="AI Engineer" title="AI Engineer"/>
 
 </div>
 
